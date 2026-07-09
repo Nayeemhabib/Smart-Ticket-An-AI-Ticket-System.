@@ -1,13 +1,12 @@
 # Smart-Ticket-An-AI-Ticket-System.
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Inngest](https://img.shields.io/badge/Inngest-5E5DF0?style=for-the-badge&logo=inngest&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-A modern, AI-powered ticket management system built with **React**, **Node.js**, **MongoDB**, and **Inngest**.  
-It allows users to create tickets, assign them to moderators, automatically send emails, and provides role-based access control.
----
+ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+ ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+ ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+ ![Inngest](https://img.shields.io/badge/Inngest-5E5DF0?style=for-the-badge&logo=inngest&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+ - A modern, AI-powered ticket management system built with **React**, **Node.js**, **MongoDB**, and **Inngest**.  
+ - It allows users to create tickets, assign them to moderators, automatically send emails, and provides role-based access control.
 ## Features
 ### User Features
 - Signup / Login with JWT authentication
@@ -45,7 +44,6 @@ It allows users to create tickets, assign them to moderators, automatically send
 - **Event System:** Inngest
 - **Authentication:** JWT
 - **Deployment:** Vite
----
 ## Screenshots
 ### Login & Signup
 | Login | Signup |
@@ -172,7 +170,7 @@ Contributions are welcome! Fork the repo and submit a pull request with improvem
 
 ## License
 
-MIT License © 2025 Aniket Gupta
+MIT License © 2025 Nayeem Habib
 
 ---
 
